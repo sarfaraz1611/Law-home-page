@@ -7,7 +7,7 @@
 
 [Click Here to See Full Website](https://justicelanding.netlify.app/)
 
-![Completed Website](assets/thumbnail.png)
+![Completed Website](thumbnail.png)
 
 ## What I learned from this Project?
 
